@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/deyuki/Desktop/LanchesMac/LanchesMac/LanchesMac.csproj": {}
+    "/Users/deyuki/Desktop/LanchesMac/MeuProjeto/MeuProjeto.csproj": {}
   },
   "projects": {
-    "/Users/deyuki/Desktop/LanchesMac/LanchesMac/LanchesMac.csproj": {
+    "/Users/deyuki/Desktop/LanchesMac/MeuProjeto/MeuProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/deyuki/Desktop/LanchesMac/LanchesMac/LanchesMac.csproj",
-        "projectName": "LanchesMac",
-        "projectPath": "/Users/deyuki/Desktop/LanchesMac/LanchesMac/LanchesMac.csproj",
+        "projectUniqueName": "/Users/deyuki/Desktop/LanchesMac/MeuProjeto/MeuProjeto.csproj",
+        "projectName": "MeuProjeto",
+        "projectPath": "/Users/deyuki/Desktop/LanchesMac/MeuProjeto/MeuProjeto.csproj",
         "packagesPath": "/Users/deyuki/.nuget/packages/",
-        "outputPath": "/Users/deyuki/Desktop/LanchesMac/LanchesMac/obj/",
+        "outputPath": "/Users/deyuki/Desktop/LanchesMac/MeuProjeto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/deyuki/.nuget/NuGet/NuGet.Config"
@@ -20,7 +20,6 @@
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/sdk/7.0.302/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,16 +38,6 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[7.0.10, )"
-            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -68,9 +57,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

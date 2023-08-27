@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/wFmcxxfidxcRifOt8Ea5de272Ivj5WwOJ6tBQCCxng=",
+  "Hash": "/Xgf8aN6E11WonqJ9j8a2EvAPcNqjCfSyd2gMNvWSiE=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/deyuki/Desktop/LanchesMac/LanchesMac/obj/Debug/net7.0/scopedcss/projectbundle/LanchesMac.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/deyuki/Desktop/LanchesMac/LanchesMac/wwwroot/.DS_Store",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/deyuki/Desktop/LanchesMac/LanchesMac/wwwroot/",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/deyuki/Desktop/LanchesMac/LanchesMac/wwwroot/css/site.css",
